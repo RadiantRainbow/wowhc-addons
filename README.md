@@ -16,6 +16,8 @@ Also see `config.toml`
     - https://github.com/shagu/pfUI
 - pfQuest
     - https://github.com/shagu/pfQuest
+- WOW_HC
+    - https://github.com/Novivy/wow-hc-addon
 
 ## Notes
 

@@ -1,7 +1,8 @@
-skipcleanprefixes = ["WOW_HC"]
-
 [[addons]]
 zip = "https://github.com/shagu/pfUI/archive/master.zip"
 
 [[addons]]
 zip = "https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-enUS.zip"
+
+[[addons]]
+git = "git@github.com:Novivy/wow-hc-addon.git"
