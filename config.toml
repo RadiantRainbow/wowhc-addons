@@ -1,8 +1,14 @@
 [[addons]]
+git = "https://github.com/Novivy/wow-hc-addon.git"
+
+[[addons]]
 zip = "https://github.com/shagu/pfUI/archive/master.zip"
 
 [[addons]]
 zip = "https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-enUS.zip"
 
 [[addons]]
-git = "git@github.com:Novivy/wow-hc-addon.git"
+git = "https://github.com/SabineWren/Quiver.git"
+
+[[addons]]
+git = "https://github.com/McPewPew/MrPlow.git"

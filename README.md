@@ -18,6 +18,10 @@ Also see `config.toml`
     - https://github.com/shagu/pfQuest
 - WOW_HC
     - https://github.com/Novivy/wow-hc-addon
+- MrPlow
+    - https://github.com/McPewPew/MrPlow.git
+- Quiver
+    - https://github.com/Novivy/wow-hc-addon.git
 
 ## Notes
 
