@@ -8,7 +8,7 @@ zip = "https://github.com/shagu/pfUI/archive/master.zip"
 zip = "https://github.com/shagu/pfQuest/releases/latest/download/pfQuest-enUS.zip"
 
 [[addons]]
-git = "https://github.com/SabineWren/Quiver.git"
+zip = "https://github.com/SabineWren/Quiver/archive/refs/tags/v3.1.1.zip"
 
 [[addons]]
 git = "https://github.com/McPewPew/MrPlow.git"
